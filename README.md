@@ -69,7 +69,7 @@ print(value)
 ```
 
 ## Output:
-![output](.//SELECTION.PNG)
-![output](.//INSERTION.PNG)
+![output](https://github.com/jithendra2004/Sorting-Algorithm/blob/main/SELECTION.png?raw=true)
+![output](https://github.com/jithendra2004/Sorting-Algorithm/blob/main/INSERTION.png?raw=true)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
